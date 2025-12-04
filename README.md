@@ -1,5 +1,4 @@
-# Sustainability Uncertainty Analysis of Digital Assest 
-
+# Exploring Sustainability Metrics
 This repository contains research exploring the link between cryptocurrency volatility and sustainability uncertainty, measured by the **ESG Uncertainty Index (ESGUI)**. The study highlights how environmental, social, and governance uncertainty affects crypto markets and the potential spillover to traditional financial and energy markets.
 
 ---
